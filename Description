@@ -1,0 +1,4 @@
+Arduino Robot Car Control Using HC-05 Bluetooth Module
+We will start with the Bluetooth communication, and for that purpose we need two HC-05 Bluetooth modules which need to be configured as master and slave devices.
+We can easily do that by using AT commands, and I set the joystick to be a master and the Arduino robot car to be a slave. Here’s the complete circuit schematic for this example:
+
